@@ -11,4 +11,5 @@ class Root_:
     def root(self):
         for i in range(10):
             self.x2 = self.func_root_()
-            return self.x2
+            
+        return self.x2
